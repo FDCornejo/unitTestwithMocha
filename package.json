@@ -1,0 +1,15 @@
+{
+  "name": "withmocha",
+  "version": "1.0.0",
+  "description": "homework for unit test",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniel Cornejo",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
